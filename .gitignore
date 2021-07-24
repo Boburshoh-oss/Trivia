@@ -12,5 +12,7 @@ env
 .Trashes
 ehthumbs.db
 Thumbs.db
+node_modules/
+logs/
 
 /frontend/node_modules
